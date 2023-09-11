@@ -1,0 +1,48 @@
+*,table, tbody{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: rgb(33, 109, 196);
+}
+#encabezado{
+    
+    background: rgb(53, 179, 116);
+}
+#container{
+    text-align: center;
+    background-position: center;
+    padding: 60px;
+    display:inline-table;
+    background-color: brown;
+    border-radius: 20%;
+}
+
+button{
+    display: block;
+    font-size: 30px;
+    line-height: 50px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+}
+#cero, #limpiar, #igual{
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+span{
+    width: 400px;
+    height: 80px;
+    display: block;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 50%;
+}
