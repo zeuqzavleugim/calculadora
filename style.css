@@ -8,17 +8,20 @@
 body{
     background-color: rgb(33, 109, 196);
 }
-#encabezado{
-    
-    background: rgb(53, 179, 116);
-}
 #container{
     text-align: center;
     background-position: center;
-    padding: 60px;
+    padding: 10px;
+    width: 420px;
+    height: 440px;
     display:inline-table;
     background-color: brown;
-    border-radius: 20%;
+    border-radius: 15%;
+    position: relative;
+}
+
+#seccion {
+    position: absolute;
 }
 
 button{
