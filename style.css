@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-color: rgb(33, 109, 196);
+    background-color: #EBE4D1;
 }
 #container{
     text-align: center;
@@ -15,8 +15,8 @@ body{
     width: 420px;
     height: 440px;
     display:inline-table;
-    background-color: brown;
-    border-radius: 15%;
+    background-color: #E55604 ;
+    border-radius: 2rem;
     position: relative;
 }
 
@@ -46,6 +46,9 @@ span{
     font-size: 40px;
     line-height: 50px;
     text-align: center;
-    background-color: aliceblue;
-    border-radius: 50%;
+    background-color: #B4B4B3;
+    border-radius: 1rem; 
+}
+strong{
+    color: #26577C;
 }
