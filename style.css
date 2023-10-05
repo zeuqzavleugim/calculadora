@@ -19,12 +19,9 @@ body{
     border-radius: 2rem;
     position: relative;
 }
-
-
 #seccion {
     position: absolute;
 }
-
 button{
     padding: 1px;
     text-align: center;
