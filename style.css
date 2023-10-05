@@ -1,6 +1,6 @@
 *,table, tbody{
     margin: 0 auto;
-    padding: 0;
+    padding: 1px;
     box-sizing: border-box;
     text-align: center;
     font-family: 'Poppins', sans-serif;
@@ -11,7 +11,7 @@ body{
 #container{
     text-align: center;
     background-position: center;
-    padding: 10px;
+    padding: 5px;
     width: 420px;
     height: 440px;
     display:inline-table;
@@ -20,17 +20,18 @@ body{
     position: relative;
 }
 
+
 #seccion {
     position: absolute;
 }
 
 button{
-    display: block;
-    font-size: 30px;
-    line-height: 50px;
+    padding: 1px;
     text-align: center;
     width: 100px;
     height: 50px;
+    background-color: #fff;
+    border-radius: 1rem;
 }
 #cero, #limpiar, #igual{
     font-size: 20px;
